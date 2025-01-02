@@ -2,7 +2,7 @@
 
 ## 👤 About me
 
-- 🌱 I'm currently learning Java
+- 🌱 I'm currently learning JavaScript, React and Nextjs
 - 🎓 I studied software development at 19 School (42 network)
 - 🎯 My goal is to become a full-stack Java developer
 
