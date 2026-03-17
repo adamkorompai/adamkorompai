@@ -23,5 +23,4 @@
 ## 🌟 Projects
 
 Here are a few of my recent projects:
-- **[ft_transcendance](https://github.com/yourusername/ft_transcendance)**: *Transcendance is a web application of the arcade game pong with a modern touch.*
-- **[webserv](https://github.com/rurangiza/adars)**: *an HTTP server using C++98 without libraries.*
+- **[OVRlol](https://github.com/yourusername/OVRlol)**:
