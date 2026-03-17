@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a motivated Junior Backend Developer specializing in **Java, Spring Boot, and cloud-native architectures on AWS**. I'm passionate about building **event-driven systems** that are scalable, resilient, and maintainable.
+I'm a motivated Junior Backend Developer specializing in **Java, Spring Boot, and cloud-native architectures on AWS**.
 
 - 🎓 Graduate of **42 Belgium** (Oct 2022 – Feb 2025) and **Switchfully Java Track** (Mar 2025 – Jun 2025)
 - 💼 Former **Backend/Cloud Developer Intern** at **DPG Media Belgium** (Sep 2025 – Dec 2025)
