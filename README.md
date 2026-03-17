@@ -23,4 +23,4 @@
 ## 🌟 Projects
 
 Here are a few of my recent projects:
-- **[OVRlol](https://github.com/yourusername/OVRlol)**:
+- **[OVRlol](https://github.com/adamkorompai/OVRlol)**
